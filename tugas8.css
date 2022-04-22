@@ -1,0 +1,25 @@
+div {
+  overflow: scroll;
+  width: 60%;
+  height: 460px;
+  background-image: url("../img/avocado.jpg");
+  background-repeat: repeat-y;
+  border: 1px solid black;
+}
+
+.satu {
+  color: blue;
+  text-align: right;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.dua {
+  color: green;
+  text-align: left;
+}
+
+.tiga {
+  color: red;
+  text-align: center;
+}
